@@ -1,9 +1,9 @@
 import { MongoClient } from "mongodb";
-const url = 'mongodb+srv://aci00997:1234@kimjeongsig.ckw4lyi.mongodb.net/?retryWrites=true&w=majority&appName=kimjeongsig';
+const url = 'mongodb+srv://ququrubingbong:1234@minjun.t3ouqvy.mongodb.net/?retryWrites=true&w=majority&appName=MinJun'
 const options = {useNewUrlParser:true};
 let connectDB;
 
-if (process.env.NODE_ENV === 'developent') {
+if (process.env.NODE_ENV === 'development') {
     if (!global._mongo) {
         global._mongo = new MongoClient(url,options).connect();
     }
