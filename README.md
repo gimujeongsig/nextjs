@@ -1,23 +1,5 @@
-# Nextjs/My-App
+# nextjs
 
-# Introduction
-Next.js를 배우면서 학습한 내용을 정리하였습니다.
-상품 리스트 페이지를 만들면서 Next.js의 라우팅, 동적 바인딩, 이미지 삽입
-Clinet/Server 컴포넌트에 대해 학습하였습니다.
-# Getting Started
-1. Repository Clone
-```bash
-git clone ~~~
-```
-2. install npm packages
-``` bash
-npm install
-```
-3. Start Development Server
-```bash
-npm rundev
-```
-4. Open Browser
-```
-http://localhost:3000
-```
+#Introduction
+24년도 여름방학 기간동안 Next.js에 대하여 학습한 내용을 정리하였습니다.
+my-app은 기초적인 내용을, forum은 게시판 프로젝트를 담고 있습니다
