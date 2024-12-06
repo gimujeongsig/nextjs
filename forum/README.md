@@ -1,4 +1,4 @@
-# form
+# forum
 
 # Introduction
 Next.js를 활용하여 커뮤니티 게시판 제작을 실습하였습니다.
